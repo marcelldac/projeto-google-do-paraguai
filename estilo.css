@@ -1,0 +1,10 @@
+h1{
+ text-align: center; 
+ text: shadow 100px;
+ color: rgba(18, 86, 245, 0.924) ;
+ padding: 150px;
+}
+form{
+    text-align: center;
+    padding: 10px;
+}
